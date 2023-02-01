@@ -1,0 +1,28 @@
+.main__gridcard {
+  margin: 40px 370px;
+  height: 409px;
+  width: 334px;
+  left: 376px;
+  top: 375px;
+  border-radius: 0px;
+  background: #ffffff;
+}
+
+.main__nick {
+  left: 24px;
+  right: 25px;
+  top: 216px;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 800;
+  font-size: 20px;
+  line-height: 24px;
+  color: #152536;
+}
+
+.main__gridcard2 {
+  display: flex;
+  flex-wrap: wrap;
+  /* grid-template-columns: repeat(2, 1fr); */
+  gap: 19px;
+}
